@@ -1,3 +1,7 @@
+---
+title: A lecture on statistical power
+---
+
 This website contains information for my lecture on statistical power in the UNC School of Pharmacy.
 
 ## Before class
