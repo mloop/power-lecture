@@ -1,3 +1,5 @@
+# you can find this code file at https://github.com/mloop/power-lecture/blob/main/simglm_example.R. 
+
 library(tidyverse)
 library(simglm)
 
