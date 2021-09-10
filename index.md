@@ -10,7 +10,7 @@ Please complete all of these items before class. The in-class portion will assum
 
 * Read [this handout](handout.pdf)
 * If you're new to using `R`, watch [this video](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7915ff30-58ee-4519-9b1d-ac8300ede6f2) to get started.
-* Watch this video on calculating power via simulations using the `simglm` package in `R`. The script shown in the video can be found here.
+* Watch this video on calculating power via simulations using the `simglm` package in `R`. The script shown in the video can be found [here](simglm_example.R).
 
 ## During class
 
