@@ -23,7 +23,7 @@ I will teach you to calculate power through a completely new framework. You won'
 
 1. List the components of power and explain how changing each component, keeping all others equal, will affect the power.
 2. Describe the limitations of using only power to design a study.
-3. Using `R`, calculate power for a t-test, ANOVA, ANCOVA, and logistic regression model.
+3. Using `R`, calculate power for a t-test, linear regression, and logistic regression model.
 
 # List the components of power and explain how changing each component, keeping all others equal, will affect the power.
 
@@ -48,7 +48,7 @@ Equations for power must be designed "bespoke", so you often use a formula that 
 
 Other quantities might be more interesting when designing a study besides the probability of rejecting a specific null hypothesis given a specific alternative hypothesis is true.^[Try to think of as many ways to finish the question, "What's the probability that...?". Simulation studies must be used to answer these other, possibly more meaningful, questions.] 
 
-# Using `R`, calculate power for a t-test, ANOVA, ANCOVA, and logistic regression model.
+# Using `R`, calculate power for a t-test, linear regression, and logistic regression model.
 Almost all of your power calculations will revolve around a treatment, a set of covariates to adjust for, and an outcome that is either continuous or binary.
 You usually will consult with a statistician to obtain a sample size justification, but it can help you to perform back-of-the-envelope power calculations on your own during the very early stages of designing a study.
 

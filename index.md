@@ -18,6 +18,8 @@ Learning objectives:
 
 1. List the components of power and explain how changing each component, keeping all others equal, affects power.
 2. Describe the limitations of using only power to design a study.
-3. Using R, calculate power / required sample size for a t-test, ANOVA, ANCOVA, and logistic regression model.
+3. Using R, calculate statistical power for a linear regression model.
 
-We will use polls, question and answer, and group active learning to achieve these objectives.
+We will use polls, lecture, question and answer, and group active learning to achieve these objectives.
+
+For the active learning activity on calculating power using `simglm`, you can use [this template](power_calculation_active_learning.R) to get started.
