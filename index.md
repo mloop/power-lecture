@@ -22,4 +22,6 @@ Learning objectives:
 
 We will use polls, lecture, question and answer, and group active learning to achieve these objectives.
 
+The slides can be found [here](slides.pdf).
+
 For the active learning activity on calculating power using `simglm`, you can use [this template](power_calculation_active_learning.R) to get started.
