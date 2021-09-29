@@ -12,7 +12,7 @@ sim_arguments <- list(
                age = list(var_type = 'continuous', mean = 62, sd = 3 )
                ),  # specify distribution of covariates
   
-  sample_size = 20,  # you will need to choose a sample size to try
+  sample_size = 35,  # you will need to choose a sample size to try
   
   error = list(variance = 20),  # specify residual variance of outcome
   

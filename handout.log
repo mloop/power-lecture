@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.12)  26 AUG 2021 16:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.12)  28 SEP 2021 14:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -763,9 +763,9 @@ LaTeX Warning: Marginpar on page 2 moved.
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <12> not available
 (Font)              Font shape `T1/cmtt/m/n' tried instead on input line 309.
 
-Overfull \hbox (2.38107pt too wide) in paragraph at lines 309--309
+Overfull \hbox (0.34105pt too wide) in paragraph at lines 309--309
 |\T1/Roboto-LF/boldcondensed/n/12 Using \T1/cmtt/m/n/12 R\T1/Roboto-LF/boldcond
-ensed/n/12 , cal-cu-late power for a t-test, ANOVA, AN-COVA, and lo-gis-
+ensed/n/12 , cal-cu-late power for a t-test, lin-ear re-gres-sion, and lo-gis-
  []
 
 
@@ -782,12 +782,12 @@ This message occurred on input line 331.
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `handout.out' has not changed.
-(rerunfilecheck)             Checksum: 57AFEB1AF28ECCABE72CC38BD850DE9A;1719.
+(rerunfilecheck)             Checksum: 2438F9507E553CE9AFAD7C88A5B820B2;1739.
  ) 
 Here is how much of TeX's memory you used:
  12995 strings out of 480954
- 195939 string characters out of 5906449
- 515485 words of memory out of 5000000
+ 195949 string characters out of 5906449
+ 515493 words of memory out of 5000000
  29915 multiletter control sequences out of 15000+600000
  471067 words of font info for 74 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -806,7 +806,7 @@ Users/mloop/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pf
 b></Users/mloop/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
 .pfb></Users/mloop/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb>
-Output written on handout.pdf (2 pages, 99146 bytes).
+Output written on handout.pdf (2 pages, 98062 bytes).
 PDF statistics:
  98 PDF objects out of 1000 (max. 8388607)
  78 compressed objects within 1 object stream
